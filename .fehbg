@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/willfromspace/walls/clay-banks-hwLAI5lRhdM-unsplash.jpg' 
